@@ -1,4 +1,10 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "express-todo": "apps/express-todo",
+    "ng-todo": "apps/ng-todo",
+    "ng-todo-e2e": "apps/ng-todo-e2e",
+    "react-todo": "apps/react-todo",
+    "react-todo-e2e": "apps/react-todo-e2e"
+  }
 }
